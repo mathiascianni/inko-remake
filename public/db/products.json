@@ -1,0 +1,758 @@
+[
+    {
+        "name": "SAKURA KIMONO",
+        "description": "A beautiful cherry blossom kimono perfect for special occasions.",
+        "price": 400,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "White",
+            "Pink"
+        ],
+        "image": "/img/products/sakura_kimono.jpg",
+        "type": "kimono",
+        "featured": true,
+        "stars": 5,
+        "id": 1
+    },
+    {
+        "name": "MATSU KIMONO",
+        "description": "A lightweight and comfortable traditional Japanese garment, perfect for everyday wear.",
+        "price": 250,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Blue",
+            "Red",
+            "Pink"
+        ],
+        "image": "/img/products/matsu_kimono.jpg",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 2
+    },
+    {
+        "name": "TSUBAKI KIMONO",
+        "description": "A stylish and elegant kimono featuring a camellia flower design.",
+        "price": 450,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Red"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 3
+    },
+    {
+        "name": "UKIYO-E KIMONO",
+        "description": "A unique and colorful kimono featuring famous Japanese art prints.",
+        "price": 550,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Multicolor"
+        ],
+        "image": "/img/products/ukiyo_e_kimono.jpg",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 4
+    },
+    {
+        "name": "SAMURAI KIMONO",
+        "description": "A bold and fierce kimono featuring samurai-inspired designs.",
+        "price": 350,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "White"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 5
+    },
+    {
+        "name": "YUKI KIMONO",
+        "description": "A graceful and feminine kimono featuring a snowflake design.",
+        "price": 500,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "White"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 6
+    },
+    {
+        "name": "ASAGAO KIMONO",
+        "description": "A colorful and playful kimono featuring morning glory flowers.",
+        "price": 300,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Pink",
+            "Blue"
+        ],
+        "image": "/img/products/asagao_kimono.jpg",
+        "type": "kimono",
+        "featured": true,
+        "stars": 5,
+        "id": 7
+    },
+    {
+        "name": "KIRIN KIMONO",
+        "description": "A striking and bold kimono featuring a mythical kirin creature.",
+        "price": 450,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Red"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 8
+    },
+    {
+        "name": "TSUKI KIMONO",
+        "description": "A stunning and elegant kimono featuring a moon and stars design.",
+        "price": 550,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "White"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 9
+    },
+    {
+        "name": "KUROSAWA KIMONO",
+        "description": "A classic and timeless kimono inspired by the legendary director Akira Kurosawa.",
+        "price": 400,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "White"
+        ],
+        "image": "",
+        "type": "kimono",
+        "featured": false,
+        "stars": 5,
+        "id": 10
+    },
+    {
+        "name": "HAKAMA PANTS",
+        "description": "A stylish and comfortable pair of pants inspired by traditional samurai attire.",
+        "price": 350,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Navy"
+        ],
+        "image": "/img/products/hakama_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 11
+    },
+    {
+        "name": "KAGOOL PANTS",
+        "description": "A durable and versatile pair of pants, perfect for outdoor activities.",
+        "price": 250,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Olive",
+            "Black"
+        ],
+        "image": "/img/products/kagool_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 12
+    },
+    {
+        "name": "SASHIKO PANTS",
+        "description": "A unique and stylish pair of pants featuring sashiko stitching.",
+        "price": 450,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Indigo",
+            "Black"
+        ],
+        "image": "/img/products/sashiko_pants.jpg",
+        "type": "pants",
+        "featured": true,
+        "stars": 5,
+        "id": 13
+    },
+    {
+        "name": "BUDOU PANTS",
+        "description": "A lightweight and comfortable pair of pants featuring a grape vine design.",
+        "price": 300,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Green"
+        ],
+        "image": "/img/products/budou_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 14
+    },
+    {
+        "name": "UMEBOSHI PANTS",
+        "description": "A fun and playful pair of pants featuring a bright plum blossom pattern.",
+        "price": 200,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Pink",
+            "Purple"
+        ],
+        "image": "",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 15
+    },
+    {
+        "name": "YOGA PANTS",
+        "description": "A comfortable and stylish pair of yoga pants featuring a lotus flower design.",
+        "price": 300,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Grey"
+        ],
+        "image": "/img/products/yoga_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 16
+    },
+    {
+        "name": "HAREM PANTS",
+        "description": "A trendy and comfortable pair of pants with a loose and flowy design.",
+        "price": 250,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Beige"
+        ],
+        "image": "",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 17
+    },
+    {
+        "name": "KENDO PANTS",
+        "description": "A durable and comfortable pair of pants inspired by the martial art of kendo.",
+        "price": 400,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "White"
+        ],
+        "image": "/img/products/kendo_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 18
+    },
+    {
+        "name": "SHIBORI PANTS",
+        "description": "A unique and stylish pair of pants featuring shibori dyeing.",
+        "price": 350,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Indigo",
+            "Red"
+        ],
+        "image": "",
+        "type": "pants",
+        "featured": true,
+        "stars": 5,
+        "id": 19
+    },
+    {
+        "name": "JOGGER PANTS",
+        "description": "A comfortable and trendy pair of pants featuring a tapered leg and elastic waistband.",
+        "price": 200,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Grey"
+        ],
+        "image": "/img/products/jogger_pants.jpg",
+        "type": "pants",
+        "featured": false,
+        "stars": 5,
+        "id": 20
+    },
+    {
+        "name": "BOMBER JACKET",
+        "description": "A stylish and versatile bomber jacket with a unique geometric pattern.",
+        "price": 500,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Green"
+        ],
+        "image": "",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 21
+    },
+    {
+        "name": "HAORI JACKET",
+        "description": "A trendy and comfortable jacket inspired by traditional Japanese haori.",
+        "price": 400,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Grey"
+        ],
+        "image": "/img/products/haori_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 22
+    },
+    {
+        "name": "MILITARY JACKET",
+        "description": "A durable and practical military-style jacket with a modern twist.",
+        "price": 600,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Olive",
+            "Black"
+        ],
+        "image": "/img/products/military_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 23
+    },
+    {
+        "name": "KIMONO JACKET",
+        "description": "A unique and stylish jacket inspired by traditional Japanese kimono.",
+        "price": 450,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Indigo",
+            "Red"
+        ],
+        "image": "/img/products/kimono_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 24
+    },
+    {
+        "name": "REVERSIBLE JACKET",
+        "description": "A reversible jacket with a bold graphic print on one side and a solid color on the other.",
+        "price": 350,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black/White",
+            "Blue/Green"
+        ],
+        "image": "/img/products/reversible_jacket.jpg",
+        "type": "jacket",
+        "featured": true,
+        "stars": 5,
+        "id": 25
+    },
+    {
+        "name": "DENIM JACKET",
+        "description": "A stylish and versatile denim jacket with a unique wave embroidery on the back.",
+        "price": 550,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Indigo"
+        ],
+        "image": "/img/products/denim_jacket.jpg",
+        "type": "jacket",
+        "featured": true,
+        "stars": 5,
+        "id": 26
+    },
+    {
+        "name": "SUKAJAN JACKET",
+        "description": "A trendy and colorful jacket inspired by traditional Japanese sukajan.",
+        "price": 650,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Red"
+        ],
+        "image": "",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 27
+    },
+    {
+        "name": "TECHNICAL JACKET",
+        "description": "A functional and modern jacket with technical features, such as water resistance and breathability.",
+        "price": 700,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Grey"
+        ],
+        "image": "/img/products/technical_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 28
+    },
+    {
+        "name": "MOTO JACKET",
+        "description": "A durable and stylish moto jacket with a modern Japanese twist.",
+        "price": 750,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black"
+        ],
+        "image": "/img/products/moto_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 29
+    },
+    {
+        "name": "TRACK JACKET",
+        "description": "A comfortable and retro-style track jacket with a unique graphic print.",
+        "price": 400,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Red"
+        ],
+        "image": "/img/products/track_jacket.jpg",
+        "type": "jacket",
+        "featured": false,
+        "stars": 5,
+        "id": 30
+    },
+    {
+        "name": "TIGER T-SHIRT",
+        "description": "A trendy and colorful t-shirt with a unique tiger graphic print.",
+        "price": 60,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "White"
+        ],
+        "image": "/img/products/tiger_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 31
+    },
+    {
+        "name": "DRAGON T-SHIRT",
+        "description": "A stylish and eye-catching t-shirt with a detailed dragon graphic print.",
+        "price": 70,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "Red"
+        ],
+        "image": "/img/products/dragon_tshirt.jpg",
+        "type": "tshirt",
+        "featured": true,
+        "stars": 5,
+        "id": 32
+    },
+    {
+        "name": "SAMURAI T-SHIRT",
+        "description": "A cool and unique t-shirt with a detailed samurai graphic print.",
+        "price": 65,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "White"
+        ],
+        "image": "/img/products/samurai_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 33
+    },
+    {
+        "name": "SUMO T-SHIRT",
+        "description": "A fun and playful t-shirt with a cute sumo wrestler graphic print.",
+        "price": 50,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Grey",
+            "Red"
+        ],
+        "image": "",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 34
+    },
+    {
+        "name": "WAVE T-SHIRT",
+        "description": "A simple yet elegant t-shirt with a beautiful wave graphic print.",
+        "price": 55,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Navy",
+            "White"
+        ],
+        "image": "/img/products/wave_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 35
+    },
+    {
+        "name": "SUSHI T-SHIRT",
+        "description": "A cute and funny t-shirt with a graphic print of various sushi types.",
+        "price": 45,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "White"
+        ],
+        "image": "/img/products/sushi_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 36
+    },
+    {
+        "name": "KANAGAWA T-SHIRT",
+        "description": "A classic and iconic t-shirt with a print of the famous Great Wave off Kanagawa artwork.",
+        "price": 60,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Navy"
+        ],
+        "image": "",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 37
+    },
+    {
+        "name": "KIMONO T-SHIRT",
+        "description": "A modern and stylish t-shirt with a graphic print inspired by traditional Japanese kimono patterns.",
+        "price": 65,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "White",
+            "Black"
+        ],
+        "image": "",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 38
+    },
+    {
+        "name": "NINJA T-SHIRT",
+        "description": "A cool and edgy t-shirt with a graphic print of a ninja warrior.",
+        "price": 70,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "Black",
+            "Grey"
+        ],
+        "image": "/img/products/ninja_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 39
+    },
+    {
+        "name": "GEISHA T-SHIRT",
+        "description": "A beautiful and elegant t-shirt with a graphic print of a traditional Japanese geisha.",
+        "price": 55,
+        "available_sizes": [
+            "S",
+            "M",
+            "L"
+        ],
+        "available_colors": [
+            "White",
+            "Pink"
+        ],
+        "image": "/img/products/geisha_tshirt.jpg",
+        "type": "tshirt",
+        "featured": false,
+        "stars": 5,
+        "id": 40
+    }
+]
