@@ -13,11 +13,11 @@ const App = () => {
             <Cart cartProducts={arrProducts} setArrProducts={setArrProducts}  />
             <Routes>
                 <Route path="/" element={<ViewHome />} />
-                <Route path="/pants" element={<ViewClothes type="Pants"/>} />
+                <Route path="/pantalones" element={<ViewClothes type="Pants"/>} />
                 <Route path="/kimonos" element={<ViewClothes type="Kimono"/>} />
-                <Route path="/tshirts" element={<ViewClothes type="Tshirt"/>} />
-                <Route path="/jackets" element={<ViewClothes type="Jacket"/>} />
-                <Route path="/products/:id" element={<ViewProductDetails arrProducts={arrProducts} setArrProducts={setArrProducts} />} />
+                <Route path="/remeras" element={<ViewClothes type="Tshirt"/>} />
+                <Route path="/camperas" element={<ViewClothes type="Jacket"/>} />
+                <Route path="/:type/:id" element={<ViewProductDetails arrProducts={arrProducts} setArrProducts={setArrProducts} />} />
             </Routes>
         </div>
     );

@@ -8,6 +8,7 @@ import Image from "./Image";
 import Cart from "./Cart";
 import CartProduct from "./CartProduct";
 import Loader from "./Loader";
+import Alert from "./Alert";
 
 export {
     Header,
@@ -19,5 +20,6 @@ export {
     Image,
     Cart,
     CartProduct,
-    Loader
+    Loader,
+    Alert,
 }
