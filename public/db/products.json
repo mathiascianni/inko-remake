@@ -51,7 +51,7 @@
             "Black",
             "Red"
         ],
-        "image": "",
+        "image": "/img/products/tsubaki_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -88,7 +88,7 @@
             "Black",
             "White"
         ],
-        "image": "",
+        "image": "/img/products/samurai_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -106,7 +106,7 @@
         "available_colors": [
             "White"
         ],
-        "image": "",
+        "image": "/img/products/yuki_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -144,7 +144,7 @@
             "Black",
             "Red"
         ],
-        "image": "",
+        "image": "/img/products/kirin_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -163,7 +163,7 @@
             "Navy",
             "White"
         ],
-        "image": "",
+        "image": "/img/products/tsuki_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -182,7 +182,7 @@
             "Black",
             "White"
         ],
-        "image": "",
+        "image": "/img/products/kurosawa_kimono.jpg",
         "type": "kimono",
         "featured": false,
         "stars": 5,
@@ -277,7 +277,7 @@
             "Pink",
             "Purple"
         ],
-        "image": "",
+        "image": "/img/products/umeboshi_pants.jpg",
         "type": "pants",
         "featured": false,
         "stars": 5,
@@ -315,7 +315,7 @@
             "Navy",
             "Beige"
         ],
-        "image": "",
+        "image": "/img/products/harem_pants.jpg",
         "type": "pants",
         "featured": false,
         "stars": 5,
@@ -353,7 +353,7 @@
             "Indigo",
             "Red"
         ],
-        "image": "",
+        "image": "/img/products/shibori_pants.jpg",
         "type": "pants",
         "featured": true,
         "stars": 5,
@@ -391,7 +391,7 @@
             "Navy",
             "Green"
         ],
-        "image": "",
+        "image": "/img/products/bomber_jacket.jpg",
         "type": "jacket",
         "featured": false,
         "stars": 5,
@@ -504,7 +504,7 @@
             "Black",
             "Red"
         ],
-        "image": "",
+        "image": "/img/products/sukajan_jacket.jpg",
         "type": "jacket",
         "featured": false,
         "stars": 5,
@@ -636,7 +636,7 @@
             "Grey",
             "Red"
         ],
-        "image": "",
+        "image": "/img/products/sumo_tshirt.jpg",
         "type": "tshirt",
         "featured": false,
         "stars": 5,
@@ -692,7 +692,7 @@
             "Black",
             "Navy"
         ],
-        "image": "",
+        "image": "/img/products/kanagawa_tshirt.jpg",
         "type": "tshirt",
         "featured": false,
         "stars": 5,
@@ -711,7 +711,7 @@
             "White",
             "Black"
         ],
-        "image": "",
+        "image": "/img/products/kimono_tshirt.jpg",
         "type": "tshirt",
         "featured": false,
         "stars": 5,
