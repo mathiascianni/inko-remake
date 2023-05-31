@@ -1,4 +1,4 @@
-import { ViewClothes, ViewHome, ViewProductDetails } from "./views";
+import { ViewClothes, ViewHome, ViewProductDetails, View404 } from "./views";
 import { Header, Cart } from "./components";
 import { Routes, Route } from "react-router-dom";
 import { useState } from "react";
@@ -18,6 +18,7 @@ const App = () => {
                 <Route path="/remeras" element={<ViewClothes type="Tshirt"/>} />
                 <Route path="/camperas" element={<ViewClothes type="Jacket"/>} />
                 <Route path="/:type/:id" element={<ViewProductDetails arrProducts={arrProducts} setArrProducts={setArrProducts} />} />
+                <Route path="*" element={<View404 />} />
             </Routes>
         </div>
     );
