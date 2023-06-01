@@ -1,9 +1,8 @@
 # Inko
-
 Este proyecto es para adaptar un proyecto de la facultad hecho en VUE a React. La temática del sitio es un eCommerce con estilización asiatica japonesa.
+Demo del proyecto: https://inko-remake.vercel.app/
 
 ## Sobre el proyecto
-
 Este proyecto fue inicialmente un trabajo de facultad hecho en VUE, ahora adaptado a React, de venta de ropa japonesa. Las imágenes del proyecto fueron generadas con Inteligencia Artificial con la web Artbreeder (https://www.artbreeder.com/).
 
 ## Objetivos del proyecto
